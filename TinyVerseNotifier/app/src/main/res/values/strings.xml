@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TinyVerseNotifier</string>
+    <string name="btnText">Send to Wearable</string>
+    <string name="title">Reference</string>
+    <string name="content">Verse</string>
+    <string name="reply_label">Do you want to see the commentary?</string>
+    <string-array name="reply_choices">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>
